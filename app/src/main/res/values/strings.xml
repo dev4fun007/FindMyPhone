@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Find My Phone</string>
+    <string name="set_pin">Set Pin</string>
+    <string name="text_input_message">Enter 4 digit number combination</string>
+    <string name="text_input_title">Set PIN</string>
+    <string name="text_input_hint">Four digit number</string>
+    <string name="text_input_prefill" />
+    <string name="text_input_error_message">Please enter valid digits only</string>
+</resources>
